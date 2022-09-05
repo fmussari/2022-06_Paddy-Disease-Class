@@ -1,0 +1,16 @@
+{
+  "id": "fmussari/mixup-kfold-resnet34-fastai",
+  "title": "MixUp, KFold and Resnet34 with Fastai",
+  "code_file": "2022-07. MixUp and Resnet34 with Fastai [Submission].ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/paddy-disease-classification"
+  ]
+}

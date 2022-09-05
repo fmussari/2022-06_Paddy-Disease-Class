@@ -1,0 +1,9 @@
+
+paddy-disease-fastai
+paddy-disease-training/.ipynb_checkpoints
+paddy-disease-training/keys
+paddy-disease-training/models
+paddy-disease-training/paddy-disease-classification
+
+paddy-disease-training/*.pkl
+*.pkl
